@@ -48,8 +48,9 @@ other locations.
 Note: All files are Saved to the App's location.
 
 # TIP's:
-•See Examples of changing color on non-included STEP files
-•Learn to add the STEP file to your Footprint and how to properly take
+See Examples of changing color on non-included STEP files.
+
+Learn to add the STEP file to your Footprint and how to properly take
 advantage of Kicad' ability to setup multiple 3D-Models (STEP files) for
 a Footprint and how to Update PCB with/without affecting particular/all
 Footprints
