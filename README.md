@@ -6,13 +6,13 @@ https://user-images.githubusercontent.com/23279806/220491173-873e2838-609a-4e94-
 # App: STEP_Colorizer
 Version:  v1r0 **(PRELIM)**
 Author: Bruce T.   Kicad Username:  'blackcoffee'
-Files Posted At:  here at Github
+Files Posted At: Here at Github
 
 # CONTENTS:
-• Description
-• Installing
-• Using
-• Tip's
+•Description
+•Installing
+•Using
+•Tip's
 
 # DESCRIPTION:
 Colors items in STEP files having their colors previously defined as RGB
