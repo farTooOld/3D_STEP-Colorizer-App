@@ -2,7 +2,7 @@
 An Application For Coloring 3D-Step File (Primarily For Step Files Used in Kicad)
 **A short video previewing the App**
 
-https://user-images.githubusercontent.com/23279806/220532409-d8ba17a5-7e37-43b7-bcbe-576afaa43a30.mp4
+https://user-images.githubusercontent.com/23279806/220550951-83fdc402-35ea-4c59-b037-c81f116d2298.mp4
 
 
 # FYI
