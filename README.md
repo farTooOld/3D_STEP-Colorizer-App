@@ -2,8 +2,7 @@
 An Application For Coloring 3D-Step File (Primarily For Step Files Used in Kicad)
 **A short video previewing the App**
 
-https://user-images.githubusercontent.com/23279806/220550951-83fdc402-35ea-4c59-b037-c81f116d2298.mp4
-
+https://user-images.githubusercontent.com/23279806/220564511-83b4bcf2-d325-4a6f-b15d-166759f190ce.mp4
 
 # FYI
 This is a Preliminary release of a 3D-STEP file utility, primarily for enhancement-use in conjunction with Kicad's PCB 3D-Viewer.
