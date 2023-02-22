@@ -5,10 +5,10 @@ An Application For Coloring 3D-Step File (Primarily For Step Files Used in Kicad
 https://user-images.githubusercontent.com/23279806/220491173-873e2838-609a-4e94-96af-fde4c9c733b8.mp4
 
 
+# FYI
 This is a Preliminary release of a 3D-STEP file utility, primarily for enhancement-use in conjunction with Kicad's PCB 3D-Viewer.
 
 The App is currently for Mac-OSX (until I re-install Windows and Linux so I can perform the appropriate testing on those systems and package it).
-
 If you use a Mac, it should install and run without errors.
 
 Although a Stand-Alone App, if using a Mac, you can also run the App from the included Kicad Plugin (you'll need to edit the .py (python file) to point to the App's install location (see posted screenshot).
