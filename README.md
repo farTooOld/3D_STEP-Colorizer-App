@@ -4,7 +4,10 @@ An Application For Coloring 3D-Step File (Primarily For Step Files Used in Kicad
 
 https://user-images.githubusercontent.com/23279806/220569250-f296a1ec-e648-43cc-9c2d-67eabe2d61f0.mp4
 
-2/23/23 Added prelim Windows10 version (GUI color selection is not working, yet)...
+2/23/23 Added Prelim Windows10 version (Three items needing further attention but, App is working well enough to take it for a spin. GUI Skin color selection, Default-size for Windows and, 'Select Part' for user-test will see updates soon, I hope)...
+For Windows user's: Download the Resistors labeled 'R_0ohm'.  Mac user's can stick with only the 'R_0Ω' labeled resistors.
+
+Eventually, I'll sort out the quirks and dial-in consistentancy between OSX, Windows and Linux)
 
 # FYI
 This is a Preliminary release of a 3D-STEP file utility, primarily for enhancement-use in conjunction with Kicad's PCB 3D-Viewer.
