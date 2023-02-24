@@ -5,6 +5,7 @@ An Application For Coloring 3D-Step File (Primarily For Step Files Used in Kicad
 https://user-images.githubusercontent.com/23279806/220569250-f296a1ec-e648-43cc-9c2d-67eabe2d61f0.mp4
 
 
+
 2/23/23 Added Prelim Windows10 version (Three items needing further attention but, App is working well enough to take it for a spin. GUI Skin color selection, Default-size for Windows and, 'Select Part' for user-test will see updates soon, I hope)...
 
 Eventually, I'll sort out the quirks and dial-in consistentancy between OSX, Windows and Linux)
@@ -40,29 +41,35 @@ All of the included 'Stock' STEP files already contain these declarations.
 
 # INSTALLING:
 **Helpful Info Prior to Installation**
-Download the STEP_Colorizer_v11r0_Pre.zip
+Download the STEP_Colorizer_v11r0_ (for your system) Pre.zip
 
-It contains all the files
+It contains all the files.
 
-The App contains a Selection of Stock-Parts provided for Ease-Of-Use.
+The App (.zip) contains a Selection of Stock-Parts provided for Ease-Of-Use.
+
 To be able to select them from the Drop-Down 'Part Selector', they MUST be
 located in the SAME FOLDER as the App.
+
 However, if you prefer a different location, that's O.K., but you will NOT
 be able to Select them from the Drop-Down (more info in 'Using' Section).
+
 Install the App (and files) - it is a 'Stand-Alone' application that can also
-be run from a Kicad Plugin (also provided for download).
+be run from a Kicad Plugin ( .py also provided for download).
 The Plugin will need EDITing of the App file location...
 
 # USING:
 Select a Part, select desired Colors, Save New Step.
+
 If you installed into location without also installing the Parts into the same
 location, simply Select the 'Select Part' in Drop-Down, you will be Prompted
 to locate a STEP file.
+
 Note: Selecting 'Select Part' is a User's tool for changing Colors on STEP files
 for testing, including the many STEP files provided by Kicad and elsewhere.
 Thus, use with Caution as you many corrupt a good STEP file. Make a Backup!
 Also, you can have Both the included Parts and also Select Part from other
 other locations.
+
 Note: All files are Saved to the App's location.
 
 # TIP's:
