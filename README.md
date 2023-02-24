@@ -43,7 +43,7 @@ All of the included 'Stock' STEP files already contain these declarations.
 **Helpful Info Prior to Installation**
 Download the STEP_Colorizer_v11r0_ (for your system) Pre.zip
 
-It contains all the files.
+It contains all the files. There is a Backup Folder containing the included STEP files.
 
 The App (.zip) contains a Selection of Stock-Parts provided for Ease-Of-Use.
 
