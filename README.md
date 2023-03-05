@@ -5,9 +5,14 @@ An Application For Coloring 3D-Step File (Primarily For Step Files Used in Kicad
 https://user-images.githubusercontent.com/23279806/220569250-f296a1ec-e648-43cc-9c2d-67eabe2d61f0.mp4
 
 
+UPDATE 3/5/23: Posted the Windows version (prelim) (filename is: "STEP_Colorizer_Win_hope.zip"
+The main problem with the Windows version was wxPython/wxWidgets.
+I revised the code to use Tkinter Widgets instead of wx... Seems to be working with some odd 'Graphic' differences from the Mac. Otherwise, it's baked well enough for user testing/use.
 
-2/23/23 Added Prelim Windows10 version (Three items needing further attention but, App is working well enough to take it for a spin. GUI Skin color selection, Default-size for Windows and, 'Select Part' for user-test will see updates soon, I hope)...
+The previously posted Mac version is working and I'm woking on Linux version.
+Note: I've added a Slider for setting Alpha Transparency but have Not yet implemented the code to use it.
 
+I will finalize all versions but I'll be looking for comments before posting them
 Eventually, I'll sort out the quirks and dial-in consistentancy between OSX, Windows and Linux)
 
 # FYI
