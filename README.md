@@ -20,14 +20,11 @@ I will finalize all versions but I'll be looking for comments before posting the
 Eventually, I'll sort out the quirks and dial-in consistentancy between OSX, Windows and Linux)
 
 # FYI
-This is a Preliminary release of a 3D-STEP file utility, primarily for enhancement-use in conjunction with Kicad's PCB 3D-Viewer.
+These are Preliminary releases of a 3D-STEP file utility, primarily for enhancement-use in conjunction with Kicad's PCB 3D-Viewer.
 
-The App is currently for Mac-OSX (until I re-install Windows and Linux so I can perform the appropriate testing on those systems and package it).
-If you use a Mac, it should install and run without errors.
+Although a Stand-Alone App, you can also run the App from the included Kicad Plugin (you'll need to edit the .py (python file) to point to the App's install location and graphic image (png) for logo...(see posted screenshot).
 
-Although a Stand-Alone App, if using a Mac, you can also run the App from the included Kicad Plugin (you'll need to edit the .py (python file) to point to the App's install location (see posted screenshot).
-
-This is Not an official Kicad plugin so, all that's needed is to place the .py file and the Icon in the 'kicad/6.0/scripting/plugins' folder.
+This is Not an official Kicad plugin so, all that's needed is to place the .py file and the .PNG image in the 'kicad/6.0/scripting/plugins' folder.
 The plugin will run the app from the installed location.
 
 
