@@ -4,14 +4,14 @@ An Application For Coloring 3D-Step File (Primarily For Step Files Used in Kicad
 
 https://user-images.githubusercontent.com/23279806/220569250-f296a1ec-e648-43cc-9c2d-67eabe2d61f0.mp4
 
-
+UPDATE: 3/8/23: Posted the Linux version. Note, as with the Windows version, all works except for the Alpha slider, noted below...
 UPDATE 3/5/23: Posted the Windows version (prelim) (filename is: "STEP_Colorizer_Win_hope.zip"
 The main problem with the Windows version was wxPython/wxWidgets.
 I revised the code to use Tkinter Widgets instead of wx... Seems to be working with some odd 'Graphic' differences from the Mac. Otherwise, it's baked well enough for user testing/use.
 
-ALSO NOTE: Both the Mac and Windows .zip contain the Part files. But, for the Windows version, the names of two Jumper Wire have changed: replaced the degree 'symbol' with 'deg'. So, if you need to use them from the Backup zip, just edit the two names. I'll clean this up, too...
+ALSO NOTE: Both the Mac, Linux and Windows .zip contain the Part files. But, for the Windows version, the names of two Jumper Wire have changed: replaced the degree 'symbol' with 'deg'. So, if you need to use them from the Backup zip, just edit the two names. I'll clean this up, too...
 
-The previously posted Mac version is working and I'm woking on Linux version.
+The posted versions are 99% good as far a I can tell running Linux and Windows in Virtual machines but, I do see some Graphic differences in the layouts (some items seem crowded - perhaps only on a Virtual Machine).
 Note: I've added a Slider for setting Alpha Transparency but have Not yet implemented the code to use it.
 
 I will finalize all versions but I'll be looking for comments before posting them
