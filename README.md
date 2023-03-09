@@ -17,7 +17,7 @@ Note: I've added a Slider for setting Alpha Transparency but have Not yet implem
 I will finalize all versions but I'll be looking for comments before posting them
 Eventually, I'll sort out the quirks and dial-in consistentancy between OSX, Windows and Linux)
 
-# FYI
+### FYI
 These are Preliminary releases of a 3D-STEP file utility, primarily for enhancement-use in conjunction with Kicad's PCB 3D-Viewer.
 
 Although a Stand-Alone App, you can also run the App from the included Kicad Plugin (you'll need to edit the .py (python file) to point to the App's install location and graphic image (png) for logo...(see posted screenshot).
@@ -27,28 +27,28 @@ The plugin will run the app from the installed location.
 
 
 
-# App: STEP_Colorizer
+### App: STEP_Colorizer
 Version:  v1r0 **(PRELIM)**
 Author: Bruce T.   Kicad Username:  'blackcoffee'
 Files Posted At: Here at Github
 
-# CONTENTS:
+### CONTENTS:
 •Description
 •Installing
 •Using
 •Tip's
 
-# DESCRIPTION:
+### DESCRIPTION:
 Colors items in STEP files having their colors previously defined as RGB
 values of: '1' for any/all of the 'COLOUR_RGB' strings in the file. The other Colors
 in the STEP file will Not be affected.
 All of the included 'Stock' STEP files already contain the appropriate declarations.
 
-# INSTALLING:
+### INSTALLING:
 **Helpful Info Prior to Installation**
-Download the STEP_Colorizer(for your system).
+Download the STEP_Colorizer(for your system). It contains all the files.
 
-It contains all the files. There is a Backup Folder containing the included STEP files.
+There is a Backup Folder containing the included STEP files.
 The App (.zip) contains a Selection of Stock-Parts provided for Ease-Of-Use.
 
 To be able to select them from the Drop-Down 'Part Selector', they **MUST** be
@@ -61,7 +61,7 @@ Install the App (and files) - it is a 'Stand-Alone' application that can also
 be run from a Kicad Plugin ( .py also provided for download).
 The Plugin will need EDITing of the App file location...
 
-# USING:
+### USING:
 Select a Part
 Select desired Colors including Tan/Blue Resistor Body Color
 Save New Step
@@ -77,9 +77,9 @@ Thus, use with Caution as you many corrupt a good STEP file. Make a Backup!
 Also, you can have Both the included Parts and also Select Part from other
 other locations.
 
-Note: All files are Saved to the App's location.
+**Note:** All files are Saved to the App's location.
 
-# TIP's:
+### TIP's:
 See Examples of changing color on non-included STEP files.
 
 Learn to add the STEP file to your Footprint and how to properly take
