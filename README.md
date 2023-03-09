@@ -8,10 +8,8 @@ UPDATE: 3/8/23: Posted the Linux version. Note, as with the Windows version, all
 
 UPDATE 3/5/23: Posted the Windows version (prelim) (filename is: "STEP_Colorizer_Win_hope.zip"
 
-FYI - The main problem with the Windows version was wxPython/wxWidgets.
-I revised the code to use Tkinter Widgets instead of wx... Seems to be working with some odd 'Graphic' differences from the Mac. Otherwise, it's baked well enough for user testing/use.
-
-ALSO NOTE: Both the Mac, Linux and Windows .zip contain the Part files. But, for the Windows version, the names of two Jumper Wire have changed: replaced the degree 'symbol' with 'deg'. So, if you need to use them from the Backup zip, just edit the two names. I'll clean this up, too...
+NOTE: The Mac, Linux and Windows .zip contain the Part files.
+Backup Part STEP files are in Backup zip.
 
 The posted versions are 99% good as far a I can tell running Linux and Windows in Virtual machines but, I do see some Graphic differences in the layouts (some items seem crowded - perhaps only on a Virtual Machine).
 Note: I've added a Slider for setting Alpha Transparency but have Not yet implemented the code to use it.
@@ -42,18 +40,18 @@ Files Posted At: Here at Github
 
 # DESCRIPTION:
 Colors items in STEP files having their colors previously defined as RGB
-values of: '1' for any/all of the COLOUR_RGB strings.
-All of the included 'Stock' STEP files already contain these declarations.
+values of: '1' for any/all of the 'COLOUR_RGB' strings in the file. The other Colors
+in the STEP file will Not be affected.
+All of the included 'Stock' STEP files already contain the appropriate declarations.
 
 # INSTALLING:
 **Helpful Info Prior to Installation**
-Download the STEP_Colorizer_v11r0_ (for your system) Pre.zip
+Download the STEP_Colorizer(for your system).
 
 It contains all the files. There is a Backup Folder containing the included STEP files.
-
 The App (.zip) contains a Selection of Stock-Parts provided for Ease-Of-Use.
 
-To be able to select them from the Drop-Down 'Part Selector', they MUST be
+To be able to select them from the Drop-Down 'Part Selector', they **MUST** be
 located in the SAME FOLDER as the App.
 
 However, if you prefer a different location, that's O.K., but you will NOT
@@ -64,7 +62,10 @@ be run from a Kicad Plugin ( .py also provided for download).
 The Plugin will need EDITing of the App file location...
 
 # USING:
-Select a Part, select desired Colors, Save New Step.
+Select a Part
+Select desired Colors including Tan/Blue Resistor Body Color
+Save New Step
+Done!
 
 If you installed into location without also installing the Parts into the same
 location, simply Select the 'Select Part' in Drop-Down, you will be Prompted
