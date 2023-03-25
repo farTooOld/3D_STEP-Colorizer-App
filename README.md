@@ -54,6 +54,8 @@ Install the App (and files) - it is a 'Stand-Alone' application that can also
 be run from a Kicad Plugin ( .py also provided for download).
 The Plugin will need EDITing of the App file location...
 
+Choose desired Icon or, make your own... (MAC and LINUX: Just use the .PNG. Windows, use one of the .ICO's)
+
 ### USING:
 Select a Part
 Select desired Colors including Tan/Blue Resistor Body Color
