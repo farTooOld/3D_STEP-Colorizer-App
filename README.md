@@ -42,8 +42,7 @@ All of the included 'Stock' STEP files already contain the appropriate declarati
 **Helpful Info Prior to Installation**
 Download the STEP_Colorizer App(for your system) and the Backup_STEP_Files.zip
 
-There is a Backup Folder containing the included STEP files.
-The App (.zip) contains a Selection of Stock-Parts provided for Ease-Of-Use.
+The App contains a Drop-Down Menu for Selection of Stock-Parts provided for Ease-Of-Use.
 
 To be able to select them from the Drop-Down 'Part Selector', they **MUST** be
 located in the SAME FOLDER as the App.
@@ -65,7 +64,7 @@ If you installed into location without also installing the Parts into the same
 location, simply Select the 'Select Part' in Drop-Down, you will be Prompted
 to locate a STEP file.
 
-Note: Selecting 'Select Part' is a User's tool for changing Colors on STEP files
+Note: Selecting 'Select A Part' is a User's tool for changing Colors on STEP files
 for testing, including the many STEP files provided by Kicad and elsewhere.
 Thus, use with Caution as you many corrupt a good STEP file. Make a Backup!
 Also, you can have Both the included Parts and also Select Part from other
@@ -79,4 +78,4 @@ See Examples of changing color on non-included STEP files.
 Learn to add the STEP file to your Footprint and how to properly take
 advantage of Kicad' ability to setup multiple 3D-Models (STEP files) for
 a Footprint and how to Update PCB with/without affecting particular/all
-Footprints
+Footprints. The Video on YouTube contains Demo of this...
