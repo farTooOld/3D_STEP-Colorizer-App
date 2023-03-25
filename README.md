@@ -1,6 +1,13 @@
 # 3D_STEP-Colorizer-App
 An Application For Coloring 3D-Step File (Primarily For Step Files Used in Kicad)
-**A short video previewing the App**
+**Two videos previewing the App - First Video Is New, Second Video contains demo of using random STEP files
+(those not included here).
+You can Fast-Forward towards the end of Second Video...**
+
+
+
+https://user-images.githubusercontent.com/23279806/227744864-1b1d2139-129f-4265-9791-aaaa2ea4c8de.mp4
+
 
 https://user-images.githubusercontent.com/23279806/220569250-f296a1ec-e648-43cc-9c2d-67eabe2d61f0.mp4
 
