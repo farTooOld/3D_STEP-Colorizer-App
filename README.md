@@ -40,7 +40,7 @@ All of the included 'Stock' STEP files already contain the appropriate declarati
 
 ### INSTALLING:
 **Helpful Info Prior to Installation**
-Download the STEP_Colorizer(for your system) and the Backup.zip
+Download the STEP_Colorizer App(for your system) and the Backup_STEP_Files.zip
 
 There is a Backup Folder containing the included STEP files.
 The App (.zip) contains a Selection of Stock-Parts provided for Ease-Of-Use.
