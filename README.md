@@ -9,10 +9,6 @@ https://user-images.githubusercontent.com/23279806/227745099-87c8e04a-a6f2-45ac-
 
 https://user-images.githubusercontent.com/23279806/220569250-f296a1ec-e648-43cc-9c2d-67eabe2d61f0.mp4
 
-Part STEP files are in Backup zip.
-
-Eventually, I'll sort out the quirks and dial-in consistentancy between OSX, Windows and Linux)
-
 ### FYI
 These are Preliminary releases of a 3D-STEP file utility, primarily for enhancement-use in conjunction with Kicad's PCB 3D-Viewer.
 
