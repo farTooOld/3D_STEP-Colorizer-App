@@ -15,7 +15,7 @@ These are Preliminary releases of a 3D-STEP file utility, primarily for enhancem
 Although a Stand-Alone App, you can also run the App from the included Kicad Plugin (you'll need to edit the .py (python file) to point to the App's install location and graphic image (png) for logo...(see posted screenshot).
 
 This is Not an official Kicad plugin so, all that's needed is to place the .py file and the .PNG image in the 'kicad/6.0/scripting/plugins' folder.
-The plugin will run the app from the installed location. Be SURE to place the STEP files in the same Location!
+The plugin will run the app from the installed location. Be SURE to place the STEP files in the same Locationa as the App!
 
 ### App: STEP_Colorizer
 Version:  v1r0 **(PRELIM)**
@@ -36,7 +36,7 @@ All of the included 'Stock' STEP files already contain the appropriate declarati
 
 ### INSTALLING:
 **Helpful Info Prior to Installation**
-Download the STEP_Colorizer App(for your system) and the Backup_STEP_Files.zip
+Download the STEP_Colorizer App(for your system) and the STEP_Files.zip
 
 The App contains a Drop-Down Menu for Selection of Stock-Parts provided for Ease-Of-Use.
 
