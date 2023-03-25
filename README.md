@@ -7,21 +7,10 @@ An Application For Coloring 3D-Step File (Primarily For Step Files Used in Kicad
 
 https://user-images.githubusercontent.com/23279806/227745099-87c8e04a-a6f2-45ac-bcb9-dfc03ece91cc.mp4
 
-
-
 https://user-images.githubusercontent.com/23279806/220569250-f296a1ec-e648-43cc-9c2d-67eabe2d61f0.mp4
 
-UPDATE: 3/8/23: Posted the Linux version. Note, as with the Windows version, all works except for the Alpha slider, noted below.
+Part STEP files are in Backup zip.
 
-UPDATE 3/5/23: Posted the Windows version (prelim) (filename is: "STEP_Colorizer_Win_hope.zip"
-
-NOTE: The Mac, Linux and Windows .zip contain the Part files.
-Backup Part STEP files are in Backup zip.
-
-The posted versions are 99% good as far a I can tell running Linux and Windows in Virtual machines but, I do see some Graphic differences in the layouts (some items seem crowded - perhaps only on a Virtual Machine).
-Note: I've added a Slider for setting Alpha Transparency but have Not yet implemented the code to use it.
-
-I will finalize all versions but I'll be looking for comments before posting them
 Eventually, I'll sort out the quirks and dial-in consistentancy between OSX, Windows and Linux)
 
 ### FYI
@@ -30,9 +19,7 @@ These are Preliminary releases of a 3D-STEP file utility, primarily for enhancem
 Although a Stand-Alone App, you can also run the App from the included Kicad Plugin (you'll need to edit the .py (python file) to point to the App's install location and graphic image (png) for logo...(see posted screenshot).
 
 This is Not an official Kicad plugin so, all that's needed is to place the .py file and the .PNG image in the 'kicad/6.0/scripting/plugins' folder.
-The plugin will run the app from the installed location.
-
-
+The plugin will run the app from the installed location. Be SURE to place the STEP files in the same Location!
 
 ### App: STEP_Colorizer
 Version:  v1r0 **(PRELIM)**
@@ -46,14 +33,14 @@ Files Posted At: Here at Github
 •Tip's
 
 ### DESCRIPTION:
-Colors items in STEP files having their colors previously defined as RGB
-values of: '1' for any/all of the 'COLOUR_RGB' strings in the file. The other Colors
+Colors items in STEP files having their colors previously defined as COLOUR_RGB
+with values of: '1' for any/all of the 'COLOUR_RGB' strings in the file. The other Colors
 in the STEP file will Not be affected.
 All of the included 'Stock' STEP files already contain the appropriate declarations.
 
 ### INSTALLING:
 **Helpful Info Prior to Installation**
-Download the STEP_Colorizer(for your system). It contains all the files.
+Download the STEP_Colorizer(for your system) and the Backup.zip
 
 There is a Backup Folder containing the included STEP files.
 The App (.zip) contains a Selection of Stock-Parts provided for Ease-Of-Use.
