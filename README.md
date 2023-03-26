@@ -41,7 +41,7 @@ All of the included 'Stock' STEP files already contain the appropriate declarati
 Download the STEP_Colorizer App(for your system) and the STEP_Files.zip
 
 The MAC app is not in a Folder, it's a .zip file.
-The LINUX Folder contains the three files, Place these files and the STEP files in the same folder. Right-Click 001 and select Extrace_Here.
+The LINUX Folder contains the three files, Place these files and the STEP files in the same folder. Right-Click 001 and select Extract_Here.
 The Windows Folder contains the .exe
 
 The App contains a Drop-Down Menu for Selection of Stock-Parts provided for Ease-Of-Use.
