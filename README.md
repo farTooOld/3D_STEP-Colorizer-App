@@ -34,11 +34,12 @@ Files Posted At: Here at Github
 Colors items in STEP files having their colors previously defined as COLOUR_RGB
 with values of: '1' for any/all of the 'COLOUR_RGB' strings in the file. The other Colors
 in the STEP file will Not be affected.
-All of the included 'Stock' STEP files already contain the appropriate declarations.
+All of the included 'Stock' STEP files already contain the appropriate declarations with appropriate Decimal
+conversions for consistent STEP RGB use.
 
 ### INSTALLING:
 **Helpful Info Prior to Installation**
-Download the STEP_Colorizer App(for your system) and the STEP_Files.zip
+Download the STEP_Colorizer App(for your system .zip or .7) and the STEP_Files.zip
 
 The MAC and LINUX app's are Not in a Folder, they are .zip files.
 The Windows Folder contains the .exe
@@ -55,7 +56,7 @@ Install the App (and files) - it is a 'Stand-Alone' application that can also
 be run from a Kicad Plugin ( .py also provided for download).
 The Plugin will need EDITing of the App file location...
 
-Choose desired Icon or, make your own... (MAC and LINUX: Just use the .PNG. Windows, use one of the .ICO's)
+Choose desired Icon or, make your own... (MAC and LINUX: Just use the .PNG.   Windows, use one of the .ICO's)
 
 ### USING:
 Select a Part
