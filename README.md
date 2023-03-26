@@ -39,7 +39,7 @@ conversions for consistent STEP RGB use.
 
 ### INSTALLING:
 **Helpful Info Prior to Installation**
-Download the STEP_Colorizer App(for your system .zip or .7z) and the STEP_Files.zip
+Download the STEP_Colorizer App(for your system .zip, .7z or .exe) and the STEP_Files.zip
 
 The MAC and LINUX app's are Not in a Folder, they are .zip files.
 The Windows Folder contains the .exe
