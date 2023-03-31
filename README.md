@@ -10,6 +10,7 @@ https://user-images.githubusercontent.com/23279806/227745099-87c8e04a-a6f2-45ac-
 https://user-images.githubusercontent.com/23279806/220569250-f296a1ec-e648-43cc-9c2d-67eabe2d61f0.mp4
 
 ### FYI
+
 These are Preliminary releases of a 3D-STEP file utility, primarily for enhancement-use in conjunction with Kicad's PCB 3D-Viewer.
 
 Full Video Here On YouTube: https://youtu.be/42trhzxvVVs
@@ -52,6 +53,10 @@ be able to Select them from the Drop-Down (more info in 'Using' Section).
 Install the App (and files) - it is a 'Stand-Alone' application that can also
 be run from a Kicad Plugin ( .py also provided for download).
 The Plugin will need EDITing of the App file location...
+If trouble running the App from Plughin, try changing the Subprocess Call String to:
+os.system (“/home/some_folder/some_other_folder/3D_STEP-Colorizer/STEP_Colorizer_v1r0_version_you_want_to_run”)
+
+(change the appropriate text to reflect your folders and App name)
 
 Choose desired Icon or, make your own... (MAC and LINUX: Just use the .PNG.   Windows, use one of the .ICO's)
 
