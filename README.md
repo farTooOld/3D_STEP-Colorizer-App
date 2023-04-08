@@ -54,6 +54,7 @@ Install the App (and files) - it is a 'Stand-Alone' application that can also
 be run from a Kicad Plugin ( .py also provided for download).
 #### The Plugin will need EDITing of the App file location and Name...
 If trouble running the App from Plugin, try changing the Subprocess Call String to:
+
 os.system (“/home/some_folder/some_other_folder/3D_STEP-Colorizer/STEP_Colorizer_v1r0_version_you_want_to_run”)
 
 (change the appropriate text to reflect your folders and App name)
