@@ -15,7 +15,7 @@ These are Preliminary releases of a 3D-STEP file utility, primarily for enhancem
 
 Full Video Here On YouTube: https://youtu.be/42trhzxvVVs
 
-Although ## a Stand-Alone App, you can also run the App from the included Kicad Plugin ## (you'll need to edit the .py (python file) to point to the App's install location and graphic image (png) for logo...(see posted screenshot).
+Although # a Stand-Alone App, you can also run the App from the included Kicad Plugin # (you'll need to edit the .py (python file) to point to the App's install location and graphic image (png) for logo...(see posted screenshot).
 
 This is Not an official Kicad plugin so, all that's needed is to place the .py file and the .PNG image in the 'kicad/6.0/scripting/plugins' folder.
 The plugin will run the app from the installed location. Be SURE to place the STEP files in the same Location as the App!
